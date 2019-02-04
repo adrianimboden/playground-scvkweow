@@ -6,5 +6,5 @@ projects:
   cpp:
     root: /cpp-project
     runner:
-      name: techio/cmake-gcc-runner
+      name: adrianimboden/techio-clang
       version: latest

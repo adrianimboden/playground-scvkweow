@@ -1,3 +1,3 @@
 #!/bin/sh
 
-make && ./universe
+/build.py --flavor debug --path .
