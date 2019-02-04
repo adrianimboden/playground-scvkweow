@@ -1,7 +1,39 @@
-title: C++ Project
+title: Mission Impossible / How to create datatypes which cannot contain invalid state
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+- title: Introduction
+  plan:
+  - title: Introduction
+    statement: markdowns/welcome.md
+- title: Enums
+  plan:
+  - title: Enums - Overview
+    statement: markdowns/lessons/enums.md
+  - title: Enums - Hands On 
+    statement: markdowns/lessons/enums_task.md
+  - title: Enums - Example Solution
+    statement: markdowns/lessons/enums_solution.md
+- title: Optional
+  plan:
+  - title: Optional - Overview
+    statement: markdowns/lessons/optional.md
+  - title: Optional - Hands On
+    statement: markdowns/lessons/optional_task.md
+  - title: Optional - Example Solution
+    statement: markdowns/lessons/optional_solution.md
+- title: Variant
+  plan:
+  - title: variant - Overview
+    statement: markdowns/lessons/variant.md
+  - title: Optional - Hands On
+    statement: markdowns/lessons/variant_task.md
+  - title: Optional - Example Solution
+    statement: markdowns/lessons/variant_solution.md
+- title: Final 
+  plan:
+  - title: Final - Hands On
+    statement: markdowns/lessons/final.md
+  - title: Final - Example Solution
+    statement: markdowns/lessons/final_solution.md
 projects:
   cpp:
     root: /cpp-project
