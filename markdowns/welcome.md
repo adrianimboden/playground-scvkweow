@@ -8,3 +8,7 @@ The build environment is:
 * -std=c++17
 * -Wall -Werror
 * Libraries: Boost 1.68
+
+
+# Disclaimer
+This playground was written for a C++ Usergroup session (https://cpp-ug-luzern.blogspot.com/). It may not yet be ready to use without further context.
