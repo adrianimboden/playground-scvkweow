@@ -22,11 +22,11 @@ plan:
     statement: markdowns/lessons/optional_solution.md
 - title: Variant
   plan:
-  - title: variant - Overview
+  - title: Variant - Overview
     statement: markdowns/lessons/variant.md
-  - title: Optional - Hands On
+  - title: Variant - Hands On
     statement: markdowns/lessons/variant_task.md
-  - title: Optional - Example Solution
+  - title: Variant - Example Solution
     statement: markdowns/lessons/variant_solution.md
 - title: Final 
   plan:
